@@ -1,4 +1,4 @@
-# studperform
+
 This is a machine learning project that uses classification algorithms to find which factors influence student academic performance. The data comes from a CSV file.
 
 The dataset covers students from different nationalities and grade levels. It also records behavioural indicators such as how often a student raises their hand, how many resources they visit, how many discussions they join, and how many days they are absent.
