@@ -1,13 +1,5 @@
-"""
-Student academic performance: exploratory charts + classifier comparison.
-
-Predicts a student's marks class (L / M / H) from four behavioural features:
-raised hands, visited resources, discussion count and absence days.
-"""
-
 import time
 import warnings
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
